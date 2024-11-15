@@ -7,3 +7,4 @@ xhofe/alist:latest
 80x86/qbittorrent:4.6.0-39-minimal-amd64-full
 linuxserver/qbittorrent:latest
 neilpang/acme.sh:latest
+linuxserver/transmission:latest
