@@ -8,3 +8,4 @@ xhofe/alist:latest
 linuxserver/qbittorrent:latest
 neilpang/acme.sh:latest
 linuxserver/transmission:latest
+sanjusss/aliyun-ddns:latest
